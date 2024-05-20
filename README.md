@@ -50,7 +50,7 @@ The repository is organized as follows:
 To replicate or explore the analysis:
 
 1. Clone this repository:
-  https://github.com/Siddhartha19Sinha/STELLAR-CLASSIFICATION-ANALYSIS
+https://github.com/Debolina10Chatterjee/Stellar-Classification-Analysis.git
 
 2. Navigate to the cloned directory:
   cd Stellar_Classification_Analysis
